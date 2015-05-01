@@ -1,9 +1,9 @@
 {
-  "name": "neon-syntax",
+  "name": "futurism-dark-syntax",
   "theme": "syntax",
-  "version": "0.3.5",
+  "version": "0.1",
   "description": "Neon syntax theme for Atom inspired by and based on the Farzher Neon Sublime Text 2/3 theme, using CSS text-shadow to implement the glow effect",
-  "repository": "https://github.com/anomaly256/neon-syntax",
+  "repository": "https://github.com/Ugotsta/futurism-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
